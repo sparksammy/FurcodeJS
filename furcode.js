@@ -1,5 +1,3 @@
-//credit to clarmond begin
-
 function fureval(code) {
   if (code.includes("owo")) {
     var owoText = code.replace("owo ","");
