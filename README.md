@@ -1,5 +1,5 @@
 # FurcodeJS
-Trying to port Furcode by @oklomsy to Javascript
+Improving Furcode by @oklomsy except in Javascript.
 
 ## A little help on how to use furcode
 First things first, you will need to import this javascript into your HTML project.
