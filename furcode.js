@@ -10,7 +10,7 @@ function fureval(code) {
     var arg2 = uwuArgs.split(" ").slice(1,2)
     var lastuwuoutput = uwuArgs.split(" ").slice(2);
     if (arg1.toString() == arg2.toString()) {
-      print(lastuwuoutput)
+      console.log(lastuwuoutput.toString())
     }
   }
 }
