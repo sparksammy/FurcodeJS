@@ -1,5 +1,5 @@
 # FurcodeJS
-Improving Furcode by @oklomsy except in Javascript.
+Improving Furcode by @oklomsy except in Javascript. *Note: There is nothing wrong with furries. They are people too.*
 
 ## A little help on how to use furcode
 First things first, you will need to import this javascript into your HTML project.
